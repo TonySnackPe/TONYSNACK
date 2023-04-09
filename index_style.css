@@ -1,0 +1,111 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family: helvetica;
+}
+
+nav{
+	margin:50px auto;
+	width:1000px;
+	height:40px;
+	background-color: red;
+}
+
+ul{
+	list-style: none;
+	width:1000px;
+	height:40px;
+}
+
+li{
+	float:left;
+	width:200px;
+	height:40px;
+	background-color: red;
+	overflow: hidden;
+	margin-top:0px;
+}
+
+div.contenedor_general:hover{
+	margin-top:-40px;
+}
+
+div.contenedor_general{
+	width:200px;
+	height:80px;
+	background-color: red;
+	-webkit-transition:margin-top .2s;
+}
+
+div.contenedor_uno{
+	width:200px;
+	height:36px;
+	background-color: black;
+	overflow: hidden;
+	border-bottom:4px solid #ff0000;
+}
+
+div.contenedor_dos{
+	width:200px;
+	height:36px;
+	background-color: #8a0606;
+	overflow: hidden;
+	border-bottom:4px solid black;
+}
+
+p.texto_uno, p.texto_dos{
+	text-align: center;
+	margin-top:10px;
+	color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
